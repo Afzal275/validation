@@ -1,0 +1,38 @@
+input:required:invalid {
+    border: 1px solid red;
+/* width:400px;
+display: flex;
+justify-content: center; */
+}
+
+.input-group {
+    display: block;
+   
+ 
+}
+span{
+    font-size: 12px;
+    color: yellow;
+}
+body{
+    margin-left: 20vh;
+    background-color: #6868F4;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    
+}
+label
+{
+    font-weight: bold;
+    font-family: arial;
+    color: white;
+    font-size: 20px;
+}
+.image{
+   
+   margin-left: 500px;
+   width: 250px;
+   height: 160px;
+}
